@@ -2,7 +2,9 @@
 
 ## Installation and Setup
 ```
-$npm i && npm test || yarn && yarn test
+To run tests: $npm i && npm test
+
+To run eslint: $npm run lint
 ```
 ## Sorting and Searching
 
