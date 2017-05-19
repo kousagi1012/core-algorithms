@@ -15,8 +15,8 @@ To run eslint: $npm run lint
  - [x] Tests for binarySearch() exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
  - [x] bubbleSort() algorithm is implemented according to the description in algorithms.md.
  - [x] Tests for bubbleSort() exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
- - [ ] mergeSort() algorithm is implemented according to the description in algorithms.md.
- - [ ] Tests for mergeSort() exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
+ - [x] mergeSort() algorithm is implemented according to the description in algorithms.md.
+ - [x] Tests for mergeSort() exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
  - [ ] closestPair() algorithm is implemented according to the description in algorithms.md.
  - [ ] Tests for closestPair() exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
  - [ ] isConnectedGraph() algorithm is implemented according to the description in algorithms.md.
